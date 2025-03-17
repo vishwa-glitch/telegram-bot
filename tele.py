@@ -13,8 +13,6 @@ WEBSITES = [
     "https://www.pornpics.com/tags/anal/", 
     "https://www.pornpics.com/tags/asian/"
 ]
-TELEGRAM_BOT_TOKEN = "7630710110:AAE1jWMiWhDnUjqKIo2lgWY2Yc_McbM2wpY"
-TELEGRAM_CHANNEL_ID = "-1002501159798"
 DOWNLOAD_FOLDER = "temp_images"
 NUM_IMAGES = 6
 
